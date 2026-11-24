@@ -1,4 +1,4 @@
-# Operating Systems (CS3104)
+# Operating Systems 
 
 This repository contains lab implementations, shell scripts, simulations, and project for the **Operating Systems** course.
 
